@@ -10,15 +10,15 @@ I'm a budding developer with a focus on backend. I'm building my portfolio with 
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=luiz-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz-github&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="50%" />
 
   <br/><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=luiz-github&theme=dark&hide_border=false" width="90%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=luiz-github&theme=dark&hide_border=false" width="50%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-github&theme=dark&hide_border=false&layout=compact" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-github&theme=dark&hide_border=false&layout=compact" width="50%" />
 
 </div>
 
